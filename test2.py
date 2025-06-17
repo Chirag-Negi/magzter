@@ -16,7 +16,7 @@ def numericalSort(value):
     return parts
 
 
-def images(link):
+def images(https://reader.magzter.com/reader/w3b9l48qv1b3zvn8i41guf33697515953371/336975):
     url = link
     for x in range(1, 40):
         url_working = url + str(x) + ".jpg"
